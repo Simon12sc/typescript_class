@@ -1,0 +1,49 @@
+ts-node-dev
+https://www.npmjs.com/package/ts-node-dev 
+
+pnpm add ts-node-dev -D
+npm i ts-node-dev -D
+
+we install types of library by 
+npm i @types/express so that we won't get error
+
+@types which is already created on github
+https://github.com/types
+
+we use this command
+ ts-node-dev --respawn --transpile-only ./src/server.ts
+it will gonna run our typescript in watch our ts file
+
+library--> plugin / Dependencies / package 
+
+frame work provides entire environment like express ( for node js) , django (for python),
+
+runtime --> node is runtime because it provide environment only to js. Javascript needs an environment to run which is provided by node js.
+
+matt pocock twitter account--> developer 
+Full-time TypeScript educator. Ex-
+@vercel,@statelyai.Used to be a voice coach. He/him. Author of Total TypeScript
+https://twitter.com/mattpocockuk
+
+documentary video for typescript
+https://www.youtube.com/watch?v=U6s2pdxebSo&t=2208s&ab_channel=OfferZenOrigins
+
+type hero
+https://typehero.dev/
+
+10 things regret about nodejs
+https://www.youtube.com/watch?v=M3BM9TB-8yA&t=841s&ab_channel=JSConf
+
+
+--> why we still in node js 
+
+Bun is a fast JavaScript
+package manager, test runner, runtime, all in one toolkit
+still not stable... fastest runtime
+https://bun.sh
+
+Deno is a runtime for JavaScript, TypeScript, and WebAssembly that is based on the V8 JavaScript engine and the Rust programming language. Deno was co-created by Ryan Dahl, who also created Node.js. slower than bun but faster than node js
+https://deno.com/
+
+
+we are still in node js because it is stable. a lots of project on node js in production level.
