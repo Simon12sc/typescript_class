@@ -23,7 +23,7 @@ runtime --> node is runtime because it provide environment only to js. Javascrip
 matt pocock twitter account--> developer 
 Full-time TypeScript educator. Ex-
 @vercel,@statelyai.Used to be a voice coach. He/him. Author of Total TypeScript
-https://twitter.com/mattpocockuk
+https://twitter.com/mattpocock
 
 documentary video for typescript
 https://www.youtube.com/watch?v=U6s2pdxebSo&t=2208s&ab_channel=OfferZenOrigins
